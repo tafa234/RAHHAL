@@ -109,7 +109,7 @@ header ul li a:hover {
 
 /* js */
 .main{
-    background-image: url(images/landing.jpg);
+    background-image: url(landing.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
